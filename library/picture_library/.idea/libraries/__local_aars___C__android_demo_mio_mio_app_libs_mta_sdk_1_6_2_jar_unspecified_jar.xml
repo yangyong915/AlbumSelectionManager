@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_aars__:C.\android\demo\mio\mio\app\libs\mta-sdk-1.6.2.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../app/libs/mta-sdk-1.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

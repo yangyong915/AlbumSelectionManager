@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_aars__:C.\android\demo\mio\mio\app\libs\alipaySdk-20161009.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../app/libs/alipaySdk-20161009.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

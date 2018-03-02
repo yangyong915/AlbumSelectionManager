@@ -1,0 +1,1 @@
+include ':app', ':library:picture_library', ':library:SmallVideoLib2'
